@@ -7,6 +7,7 @@ exports[`ProductTitle debe mostrar el componente con el nombre del producto 1`] 
   <span
     className="productDescription undefined"
   >
+     
     Coffee Mug - Sin imagen
   </span>
 </div>
@@ -16,6 +17,7 @@ exports[`ProductTitle debe mostrar el componente correctamente con el título pe
 <span
   className="productDescription custom-class"
 >
+   
   Custom product
 </span>
 `;
